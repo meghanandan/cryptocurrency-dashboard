@@ -1,0 +1,21 @@
+body{background-color: ghostwhite;}
+.card-box{ padding:1rem;}
+.bg-img{
+    background-image: url("https://images.pexels.com/photos/8919543/pexels-photo-8919543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 20vh;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+.table{
+    width: 100%;
+    background-color: #fff;
+    border-collapse: collapse;  
+    text-align: left;  
+}
+.table tr th, .table tr td{
+    border: 1px solid #dfdfdf;
+    padding: 0.5rem;
+}
